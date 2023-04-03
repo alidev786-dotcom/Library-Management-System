@@ -1,0 +1,6 @@
+introduction to sociology,123456,ahmad sami,23-5-1990,1
+calculus,123457,newton,13-4-1989,1
+Data Structures,123458,edison,12-6-198,0
+islamic studies,1234568,Molana jamil,12-32-1900,0
+pakistan studies,1234568,Molana jamil,12-32-1900,0
+chemistry,21212,edison,12-12-2001,0
